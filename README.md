@@ -87,6 +87,7 @@ The links below will guide you through the next steps.
 
 - 💬 [Join the Slack Community](https://maestrodev.typeform.com/to/FelIEe8A)
 - 📘 [Documentation](https://docs.maestro.dev)  
+- 🌐 [Web UI automation deep-dive (中文)](docs/web-automation-analysis.md)
 - 📰 [Blog](https://maestro.dev/blog?utm_source=github-readme) 
 - 🐦 [Follow us on X](https://twitter.com/maestro__dev)
 
@@ -130,5 +131,4 @@ Pricing for Maestro Cloud is completely transparent and can be found on the [pri
 ```
   Built with ❤️ by Maestro.dev
 ```
-
 
